@@ -1,6 +1,7 @@
 import jade.core.Agent;
 import jade.domain.FIPAAgentManagement.DFAgentDescription;
 
+
 /***************************************************************************
 	Les agents consommateurs de l'électricité
 	 - recherchent dans DF l'agent fournisseur
