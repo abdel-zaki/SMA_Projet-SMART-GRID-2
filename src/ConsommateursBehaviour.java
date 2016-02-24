@@ -6,6 +6,7 @@ import jade.domain.FIPAAgentManagement.DFAgentDescription;
 import jade.lang.acl.ACLMessage;
 import jade.lang.acl.UnreadableException;
 
+
 /***************************************************************************
 	Behaviour des agents Consommateurs
 	 - permet d'executer les tâches d'un agent consommateur à partir de la réception des tarifs du fournisseur
