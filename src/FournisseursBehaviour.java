@@ -4,7 +4,6 @@ import jade.domain.FIPAAgentManagement.DFAgentDescription;
 import jade.lang.acl.ACLMessage;
 import jade.lang.acl.UnreadableException;
 import jade.wrapper.AgentContainer;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
