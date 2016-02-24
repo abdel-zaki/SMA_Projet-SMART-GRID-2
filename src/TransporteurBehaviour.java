@@ -3,6 +3,7 @@ import jade.core.behaviours.CyclicBehaviour;
 import jade.lang.acl.ACLMessage;
 import jade.lang.acl.UnreadableException;
 
+
 /***************************************************************************
 	Behaviour de l'agent Transporteur (crée par un fournisseur)
 	 - permet d'executer les tâches de l'agent Transporteur
