@@ -1,5 +1,6 @@
 import jade.core.Agent;
 
+
 /***************************************************************************
 	L'agent transporteur d'électricité (crée par un fournisseur)
 	 - repond à la demande de transporter l'electricite
