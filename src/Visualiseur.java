@@ -1,5 +1,6 @@
 import jade.core.Agent;
 
+
 /***************************************************************************
 	agent visualiseur
 	 - affiche les informations à jour sur le fournisseur et ses cients (à chaque tic d'horloge)
