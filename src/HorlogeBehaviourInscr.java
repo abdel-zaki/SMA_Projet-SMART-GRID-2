@@ -3,6 +3,7 @@ import jade.core.behaviours.CyclicBehaviour;
 import jade.lang.acl.ACLMessage;
 import jade.lang.acl.UnreadableException;
 
+
 /***************************************************************************
 	behaviour de l'agent horloge
 	 - attend que tout les consommateurs soient abonnées
