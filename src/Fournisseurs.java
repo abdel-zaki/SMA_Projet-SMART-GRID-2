@@ -1,6 +1,7 @@
 import jade.core.Agent;
 import jade.wrapper.AgentContainer;
 
+
 /***************************************************************************
 	Agent fournisseur
 	 - répond au demandes de tarifs, d'abonnement et de désabonnement
