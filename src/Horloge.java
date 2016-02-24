@@ -1,6 +1,7 @@
 import jade.core.Agent;
 import jade.domain.FIPAAgentManagement.DFAgentDescription;
 
+
 /***************************************************************************
 	Agent horloge
 	 - attend que tout les consommateurs soient abonnées
